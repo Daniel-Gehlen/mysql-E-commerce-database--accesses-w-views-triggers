@@ -27,8 +27,3 @@ Customizing accesses and using triggers are important strategies to ensure the s
 Imagine an e-commerce company that needs to manage data for its employees, departments, projects, and customers. By implementing the access customizations discussed in this report, the company can ensure that only relevant information is accessed by different teams, such as department managers and regular employees. Additionally, triggers can be used to automate important tasks, such as keeping a record of salary changes or preventing accidental deletion of customer accounts. This contributes to operational efficiency and data security for the company.
 
 This report highlights the importance of advanced database management strategies for modern businesses, demonstrating how access customizations and triggers can be effectively applied in practical scenarios.
-
-
-
-![photo](/ecommercedb-routines.png)
-
